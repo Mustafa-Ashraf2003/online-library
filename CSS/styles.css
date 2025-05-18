@@ -1,0 +1,15 @@
+nav .links ul li a {
+    transition: 0.2s linear;
+    -webkit-transition: 0.2s linear;
+    -moz-transition: 0.2s linear;
+    -ms-transition: 0.2s linear;
+    -o-transition: 0.2s linear;
+}
+nav .links ul li a:hover{
+    color: #007bff !important;
+    transform: scale(1.2 , 1.2);
+    -webkit-transform: scale(1.2 , 1.2);
+    -moz-transform: scale(1.2 , 1.2);
+    -ms-transform: scale(1.2 , 1.2);
+    -o-transform: scale(1.2 , 1.2);
+}
