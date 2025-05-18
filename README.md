@@ -7,7 +7,7 @@ An interactive web application for managing books in a simple digital library. U
 
 ## 🌐 Demo
 
-🔗 [Live Demo](#)  
+🔗 [Live Demo](https://mustafa-ashraf2003.github.io/online-library/)  
 > Replace the `#` with the actual link if deployed on Netlify, GitHub Pages, Vercel, etc.
 
 ---
